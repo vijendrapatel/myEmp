@@ -1,0 +1,37 @@
+.empList_page .sc-dkzDqf.gZWIKX.rdt_TableHeadRow {
+    color: white;
+    font-size: 19px;
+    background-color: black;
+    font-family: unset;
+}
+.empList_page .employee_table{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px;
+}
+.addemployee_box_row{
+    display: flex;
+}
+/* -------------addemp-------------- */
+.dept{
+    width: 100%;
+    height: 40px;
+}
+.eye_icon_btn{
+display: flex;
+}
+.detail_side_heading{
+    display: flex;
+    gap:2px;
+}
+.detail_side_heading:hover{
+    color: aquamarine;
+}
+.status_check{
+    display: flex;
+    gap:4px;
+}
+.form-control.checkbox_status {
+    width: 0 !important;
+  }

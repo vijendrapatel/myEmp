@@ -1,0 +1,8 @@
+.manageLeaves_page .status_response {
+    display: flex;
+    gap: 1px;
+}
+.manageLeaves_page .approve_btn {
+    font-size: 9px;
+    width: max-content;
+}

@@ -1,0 +1,16 @@
+.popup_main_box .popupheading{
+font-size: 25px;
+}
+/* .popup_main_box .popup_content_box .popupfieldss label {
+    font-size: 20px;
+} */
+input[type=date]:required:invalid::-webkit-datetime-edit {
+    color: transparent;
+}
+input[type=date]:focus::-webkit-datetime-edit {
+    color: black !important;
+}
+.eventsection_box .eventsection_body .eventsection_cardbody{
+    height: 500px;
+    overflow: hidden auto;
+}
